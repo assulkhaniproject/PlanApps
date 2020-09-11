@@ -1,4 +1,4 @@
-package com.anisapandu.planapps
+package com.assulkhani.planapps
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

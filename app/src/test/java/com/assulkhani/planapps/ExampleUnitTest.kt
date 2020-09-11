@@ -1,4 +1,4 @@
-package com.anisapandu.planapps
+package com.assulkhani.planapps
 
 import org.junit.Test
 
